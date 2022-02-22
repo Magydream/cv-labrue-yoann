@@ -228,7 +228,7 @@ li{
 }
 .container-banner-contact{
     background-size: cover;
-    background-image: url(/Images/contact-banner.jpg);
+    background-image: url(./Images/contact-banner.jpg);
     height: 600px;
 
 }
@@ -362,7 +362,7 @@ a:link{
     }
 
 .banner-exp li{
-    list-style-image: url(/Images/minus-big-symbol.svg);
+    list-style-image: url(./Images/minus-big-symbol.svg);
 }
 
 .banner-exp img{
